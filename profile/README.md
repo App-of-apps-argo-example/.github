@@ -4,9 +4,7 @@ A pull-based GitOps platform: developers only `git push`. One locked pipeline sc
 
 ## Demo
 
-<!-- VIDEO: on github.com, edit this file, drag profile/assets/demo.mp4 onto the next line, commit. GitHub replaces it with an inline player. -->
-
-[![45-second demo: one git push, four kinds of repos, 20 deploys, a deleted deployment back in 9 seconds](assets/demo-poster.jpg)](assets/demo.mp4)
+https://github.com/user-attachments/assets/e218d497-1bbf-4c7a-b4a0-d8e24320bf06
 
 *45 seconds: one push travels the whole chain; we delete a deployment and ArgoCD restores it in 9 seconds, while a push-model deploy stays gone.*
 
